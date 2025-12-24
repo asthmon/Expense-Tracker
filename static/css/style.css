@@ -1,0 +1,8 @@
+        #gradient {
+            background: linear-gradient(130deg, #3c096c, #d190c0, #6826a2);
+            background-size: 200% 200%;
+
+            -webkit-animation: Animation 5s ease infinite;
+            -moz-animation: Animation 5s ease infinite;
+            animation: Animation 5s ease infinite;
+        }
